@@ -9,7 +9,7 @@ I'm a web developer who focuses on crafting clean, beautiful and modern websites
 - ✉️ Reach me at: kevinelyanwork@gmail.com
 
 
-### 🧰 Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="40" height="40"/>
