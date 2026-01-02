@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kevin E
+Hi, I'm Kevin E
 kevinelyan.vercel.app  ( On progress :) ) 
 
 I'm a web developer who focuses on crafting clean, beautiful and modern websites with strong UX/UI.
@@ -6,10 +6,12 @@ I'm a web developer who focuses on crafting clean, beautiful and modern websites
 
 - Frontend: Next.js, Tailwind CSS, Framer , Vue , Nuxt 
 - Still on progress Learning: Nuxt & Vue  ( Project Uploaded Soon )
-- Reach me at: kevinelyanwork@gmail.com
+- Reach me at:
+  kevinelyanwork@gmail.com
+  www.linkedin.com/in/kevinelyan
 
 
-### Tech Stacks
+Tech Stacks
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="40" height="40"/>
