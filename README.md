@@ -7,7 +7,7 @@ I'm a web developer who focuses on crafting clean, beautiful and modern websites
 - Frontend: Next.js, Tailwind CSS, Framer , Vue , Nuxt 
 - Still on progress Learning: Nuxt & Vue  ( Project Uploaded Soon )
 - Reach me at:
-  kevinelyanwork@gmail.com
+  kevinelyanwork@gmail.com | 
   www.linkedin.com/in/kevinelyan
 
 
