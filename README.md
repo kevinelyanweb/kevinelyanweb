@@ -1,7 +1,7 @@
 Hi, I'm Kevin E
+
 <https://kevin-elyan.vercel.app/>
 
-  ( On progress :) ) 
 
 I'm a web developer who focuses on crafting clean, beautiful and modern websites with strong UX/UI.
 
